@@ -1,12 +1,4 @@
-# TheGossipProject
+# Le bon repo pour le corrections --> https://github.com/belldy/TGP
 
-Hello :)
-
-* clone ce git
-* bundle install
-* rails db:migrate
-* rails db:seed
-
---------------------
 
 
